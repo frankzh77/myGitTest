@@ -1,4 +1,6 @@
 This is the test file
 
+add second line
+
 end of record
 
